@@ -41,10 +41,56 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Impact of the Problem
+When small farmers cannot access scientific, real-time advice:
+
+They often pick crops, fertilizers, and pest-control methods based on hearsay, not data, resulting in lower productivity.
+
+Excess input use drives up costs and damages local ecosystems, since chemical run-off and over-fertilization degrade soils and water sources.
+
+Language barriers and digital illiteracy mean even available tech solutions are underutilized.
+
+According to the NABARD Report (2022), about 86% of all farmers in India fall into the small/marginal category, making this a problem with vast national consequences.
+
+Why Solving This Matters
+Helping these farmers make informed decisions will:
+
+Significantly boost yields (up to 20–30% by some ICT studies), cut costs, and raise incomes, leading to better livelihoods and rural stability.
+
+Promote responsible input use for sustainability, safeguarding both farmland and public health.
+
+Strengthen national food security and lower India’s vulnerability to supply shocks.
+
+Reduce dependency on unreliable or misleading third-party advice, increasing farmer autonomy.
+
+Expected Outcomes of a Solution
+A multilingual, AI-driven advisory app or chatbot can provide:
+
+Personalized crop and fertilizer advice factoring in local soil, weather, and history.
+
+Real-time weather and early warning alerts to protect crops.
+
+Instant pest and disease detection through image uploads.
+
+Voice-based interaction for non-literate users, bridging the digital divide.
+
+Market price updates to empower smarter harvesting and selling.
+
+Data feedback loops to continually improve the tool based on real-world farmer use.
+
+Stakeholders and Beneficiaries
+Small and marginal farmers will see direct, daily benefits in yields and income.
+
+Agriculture extension officers and government agencies can aid more farmers, more efficiently, with accurate recommendations.
+
+NGOs and cooperatives can amplify their outreach and impact.
+
+Agri-tech startups and the wider sector gain new opportunities to scale innovation in rural India.
+
+Supporting Data
+86% of Indian farmers are small/marginal (NABARD, 2022).
+
+ICT-based crop advisories can lift yields by 20-30% according to multiple studies.
 
 ## Technical Approach
 <h3>Remove These Lines</h3>
